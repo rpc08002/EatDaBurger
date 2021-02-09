@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("/assets/img/background.jpg");
+    background-image: url("public/assets/css/background.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
