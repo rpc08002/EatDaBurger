@@ -15,9 +15,8 @@
   - [Questions](#questions)
 
   ## Usage
-  * Add departments, roles, employees.
-  * View departments, roles, employees.
-  * Update employee roles.
+  * List out your favorite burgers and save them to a database
+  * Cross off burgers you have eaten already by hittiing the devour button
 
   ## License
   Application is covered by the MIT License.
