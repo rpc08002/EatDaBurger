@@ -1,13 +1,9 @@
 .jumbotron {
-    background-image: url("public/assets/css/background.jpeg");
+    background-image: url("public/assets/css/img/background.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     margin-top: 10px;
-}
-
-.jumbotron > h1 {
-    font-family: 'Creepster', cursive;
 }
 
 #newburger {
@@ -15,7 +11,7 @@
 }
 
 #color-override {
-    color: #fff;
+    color: black;
 }
 
 #lefthead {
